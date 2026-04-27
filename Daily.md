@@ -12,5 +12,5 @@
 
  Today: create Booking model, BookingRepository and BookingService.
 
- Blockers: none
+ Blockers: Maven dependencies needed extra time to config correctly
 

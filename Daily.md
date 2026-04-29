@@ -14,3 +14,10 @@
 
  Blockers: Maven dependencies needed extra time to config correctly
 
+## Daily - 29 April 2026
+
+ Yesterday: day off for family reasons
+ 
+ Today: config LibrarybookingApplication.java, run application, test all endpoints with Postman, take screenshots as proof
+ 
+🚧 Blockers: none

@@ -18,6 +18,6 @@
 
  Yesterday: day off for family reasons
  
- Today: config LibrarybookingApplication.java, run application, test all endpoints with Postman, take screenshots as proof
+ Today: config LibrarybookingApplication.java, run application, test all endpoints with Postman, take screenshots as proof, created README with full documentation
  
 🚧 Blockers: none

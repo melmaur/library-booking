@@ -8,7 +8,7 @@
 | US-02 | As a user I want to see all bookings so I can check availability | 2 | Done |
 | US-03 | As a user I want to cancel a booking so I can free up the book | 2 | Done |
 | US-04 | As a user I want to see bookings by book so I can check a specific title | 2 | Done |
-| US-05 | As a user I want a web interface so I can use the system from a browser | 3 | To Do |
+| US-05 | As a user I want a web interface so I can use the system from a browser | 3 | Done |
 
 ## Future Development
 

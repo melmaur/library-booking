@@ -14,10 +14,19 @@
 
  Blockers: Maven dependencies needed extra time to config correctly
 
-## Daily - 29 April 2026
+## Daily - Wed 29 April 2026
 
  Yesterday: day off for family reasons
  
  Today: config LibrarybookingApplication.java, run application, test all endpoints with Postman, take screenshots as proof, created README with full documentation
  
-🚧 Blockers: none
+ Blockers: none
+
+## Daily - Thu 30 April 2026
+
+Yesterday: REST API complete, all endpoints tested, 
+README with Postman screenshots pushed to GitHub
+
+Today: build simple web frontend for booking system
+
+Blockers: none

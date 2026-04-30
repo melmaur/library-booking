@@ -88,6 +88,21 @@ All endpoints tested and verified with Postman.
 ### GET — All bookings after delete
 ![GET empty](docs/screenshots/get-all-bookings-empty.png)
 
+## Web Frontend
+
+A simple web interface served directly by Spring Boot
+at http://localhost:8080/index.html
+
+### Empty page on startup
+![Frontend empty](docs/screenshots/frontend-empty.png)
+
+### Active booking in table
+![Frontend booking](docs/screenshots/frontend-booking.png)
+
+### Cancelled booking
+![Frontend cancelled](docs/screenshots/frontend-cancelled.png)
+
+
 ## Future Development 🔮
 - User authentication with Spring Security
 - User login and registration

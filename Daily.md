@@ -27,6 +27,7 @@
 Yesterday: REST API complete, all endpoints tested, 
 README with Postman screenshots pushed to GitHub
 
-Today: build simple web frontend for booking system
+Today: build simple web frontend for booking system, tested full stack browser to API,
+took screenshots, updated README and Backlog
 
 Blockers: none

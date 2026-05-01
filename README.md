@@ -80,7 +80,7 @@ All endpoints tested and verified with Postman.
 ![GET active](docs/screenshots/get-active-bookings.png)
 
 ### PUT — Cancel booking
-![Cancel booking](docs/screenshots/cancel-booking.png)
+![Cancel booking](docs/screenshots/cancel-booking-by-title.png)
 
 ### DELETE — Delete booking
 ![DELETE booking](docs/screenshots/delete-booking.png)

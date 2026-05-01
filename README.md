@@ -11,7 +11,7 @@ This project is part of a larger ecosystem:
 |---|---|--------------------------------------------------------|
 | Library Management | Java console app for book catalog | [library-java](https://github.com/melmaur/library-java.git) |
 | Library REST API | Spring Boot API for book catalog | [todo-api](https://github.com/melmaur/todo-api.git)    |
-| Library Booking | This project — booking system | This project is library-booking                        |
+| Library Booking | This project — booking system | This repo is library-booking                        |
 
 ## Features
 - Create and manage book reservations

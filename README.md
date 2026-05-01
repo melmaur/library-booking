@@ -91,7 +91,7 @@ All endpoints tested and verified with Postman.
 ## Web Frontend
 
 A simple web interface served directly by Spring Boot
-at http://localhost:8080/index.html
+at http://localhost:8080/
 
 ### Empty page on startup
 ![Frontend empty](docs/screenshots/frontend-empty.png)

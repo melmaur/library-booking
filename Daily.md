@@ -36,6 +36,6 @@ Blockers: none
 
  Yesterday: built web frontend, tested full stack, screenshots and README updated on GitHub
 
-Today: refactored frontend into separate files index.html, styles.css, script.js following best practice
+Today: refactored frontend into separate files index.html, styles.css, script.js following best practice. sprint Review and Retrospective to close it. 
 
 Blockers: none

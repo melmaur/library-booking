@@ -74,7 +74,7 @@ All endpoints tested and verified with Postman.
 ![GET by ID](docs/screenshots/get-booking-by-id.png)
 
 ### GET — Bookings by book title
-![GET by title](docs/screenshots/get-bookings-by-title.png)
+![GET by title](docs/screenshots/get-booking-by-title.png)
 
 ### GET — Active bookings
 ![GET active](docs/screenshots/get-active-bookings.png)

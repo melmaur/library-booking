@@ -31,3 +31,11 @@ Today: build simple web frontend for booking system, tested full stack browser t
 took screenshots, updated README and Backlog
 
 Blockers: none
+
+## Daily - 1 May 2026
+
+ Yesterday: built web frontend, tested full stack, screenshots and README updated on GitHub
+
+Today: refactored frontend into separate files index.html, styles.css, script.js following best practice
+
+Blockers: none

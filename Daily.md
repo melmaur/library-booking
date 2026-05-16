@@ -39,3 +39,17 @@ Blockers: none
 Today: refactored frontend into separate files index.html, styles.css, script.js following best practice. sprint Review and Retrospective to close it. 
 
 Blockers: none
+
+## Sprint Maintenance - Docker spike: applying Dockerization to project 2 and project 3
+
+### Day 2 — 16/05/2026
+
+**Yesterday:** Successfully containerized Project 2 (todo-api) —
+multi-stage Dockerfile, image built and tested via Postman.
+
+**Today:** Applied same Docker approach to Project 3 (library-booking)
+— full stack app including Spring Boot backend and HTML/CSS/JS frontend
+served as static resources. Container tested locally via browser.
+
+**Blockers:** None — process was straightforward following Day 1
+experience acquired dockering project 2 (todo-api) yesterday.

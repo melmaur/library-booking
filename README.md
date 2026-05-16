@@ -28,6 +28,7 @@ This project is part of a larger ecosystem:
 - Spring Data JPA
 - H2 Database
 - Maven
+- *Docker*
 - Git & GitHub
 
 ## Agile Process
@@ -104,6 +105,7 @@ at http://localhost:8080/
 
 
 ## Future Development 🔮
+- Kubernetes
 - User authentication with Spring Security
 - User login and registration
 - Role-based access control (Admin vs User)
@@ -115,6 +117,31 @@ at http://localhost:8080/
 3. Run LibraryBookingApplication.java
 4. API available at http://localhost:8080/api/bookings
 5. H2 console available at http://localhost:8080/h2-console
+
+## 🐳 Docker Support
+
+The application has been containerized using Docker as part of 
+the Sprint 2 Docker Spike.
+
+### Run with Docker
+
+1. Build the image:
+```bash
+   docker build -t library-booking .
+```
+
+2. Run the container:
+```bash
+   docker run -p 8080:8080 library-booking
+```
+
+3. Web UI at: `http://localhost:8080`
+4. API at: `http://localhost:8080/api/bookings`
+5. H2 console at: `http://localhost:8080/h2-console`
+
+### Note
+The frontend (HTML/CSS/JS) is served directly by Spring Boot 
+as static resources — no separate container required.
 
 ## Project Structure
 ```

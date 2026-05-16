@@ -45,3 +45,23 @@ and web frontend for managing library book reservations.
 ## Next Steps
 - Future Sprint: add Spring Security authentication
 - Future Sprint: user login and role-based access control
+
+## Sprint Review — Day 2 of Sprint Maintenance Docker spike.
+
+**Sprint Goal:** Complete Docker Spike — containerize all applicable services
+
+**Date:** 16/05/2026
+
+### Completed
+-  Dockerfile created for library-booking (multi-stage build)
+-  .dockerignore configured
+-  Docker image built: `library-booking`
+-  Container tested — web UI accessible at localhost:8080
+-  Frontend (HTML/CSS/JS) confirmed working inside container
+-  README updated with Docker instructions
+- Scrum artifacts updated 
+-  Changes pushed to GitHub
+
+### Outcome
+Docker Spike completed across 2 days. Both Spring Boot services
+(Project 2 and Project 3) are now fully containerized and portable.

@@ -43,3 +43,33 @@ and web frontend for managing library book reservations.
 - **Adaptation**: lessons from Project 2 applied to Project 3 
 - **Commitment**: all sprint goals achieved across 3 projects 
 - **Focus**: each project built one layer at a time 
+
+
+ 
+## Sprint Maintenance Docker Spike - Retrospective 
+
+**Date:** 16/05/2026 (Day 2 of the spike was dedicated to this project)
+
+### What went well 
+- Docker knowledge transferred immediately from Project 2 to Project 3
+- Full stack app (backend + frontend) containerized with no additional
+  complexity — Spring Boot serves static resources inside the JAR
+- Two services containerized in a 2-day spike as planned
+
+### What could be improved 
+- A docker-compose.yml would allow running both services together
+  with a single command — planned for next sprint
+- No persistent storage yet — H2 resets on container restart
+
+### What I learned 
+- Docker muscle memory builds fast — second containerization took
+  half the time of the first
+- Spring Boot embeds static frontend resources in the JAR —
+  no separate container needed for HTML/CSS/JS frontend
+- Multi-service Docker setups naturally lead toward
+  docker-compose and Kubernetes
+
+### Next Steps 
+- docker-compose.yml to orchestrate Project 2 + Project 3 together
+- Kubernetes basics — explore deployment concepts
+- Spring Security — authentication layer

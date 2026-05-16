@@ -121,7 +121,7 @@ at http://localhost:8080/
 ## 🐳 Docker Support
 
 The application has been containerized using Docker as part of 
-the Sprint 2 Docker Spike.
+the Sprint Maintenance Docker Spike.
 
 ### Run with Docker
 
